@@ -1,0 +1,459 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tvp.pl" tvg-name="PL | TVP UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND GENERAL",PL | TVP UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17538
+#EXTINF:-1 tvg-id="tvp1.pl" tvg-name="PL | TVP 1 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP1.png" group-title="PL | 4K POLAND GENERAL",PL | TVP 1 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17544
+#EXTINF:-1 tvg-id="tvp2.pl" tvg-name="PL | TVP 2 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP2.png" group-title="PL | 4K POLAND GENERAL",PL | TVP 2 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17542
+#EXTINF:-1 tvg-id="tvp3.pl" tvg-name="PL | TVP 3 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP3.png" group-title="PL | 4K POLAND GENERAL",PL | TVP 3 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17541
+#EXTINF:-1 tvg-id="tvpseriale.pl" tvg-name="PL | TVP SERIALE UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPSERIALE.png" group-title="PL | 4K POLAND GENERAL",PL | TVP SERIALE UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17532
+#EXTINF:-1 tvg-id="tvn.pl" tvg-name="PL | TVN UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN.png" group-title="PL | 4K POLAND GENERAL",PL | TVN UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17552
+#EXTINF:-1 tvg-id="tvn7.pl" tvg-name="PL | TVN 7 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN7.png" group-title="PL | 4K POLAND GENERAL",PL | TVN 7 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17556
+#EXTINF:-1 tvg-id="polsat.pl" tvg-name="PL | POLSAT UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND GENERAL",PL | POLSAT UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17625
+#EXTINF:-1 tvg-id="polsat2.pl" tvg-name="PL | POLSAT 2 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT2.png" group-title="PL | 4K POLAND GENERAL",PL | POLSAT 2 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17633
+#EXTINF:-1 tvg-id="tvpuls.pl" tvg-name="PL | TV PULS UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND GENERAL",PL | TV PULS UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17564
+#EXTINF:-1 tvg-id="tvpuls2.pl" tvg-name="PL | PULS 2 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PULS2.png" group-title="PL | 4K POLAND GENERAL",PL | PULS 2 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17593
+#EXTINF:-1 tvg-id="tv4.pl" tvg-name="PL | TV4 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TV4HD.png" group-title="PL | 4K POLAND GENERAL",PL | TV4 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17561
+#EXTINF:-1 tvg-id="ttv.pl" tvg-name="PL | TTV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TTV.png" group-title="PL | 4K POLAND GENERAL",PL | TTV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17566
+#EXTINF:-1 tvg-id="tvnturbo.pl" tvg-name="PL | TVN TURBO UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNTURBO.png" group-title="PL | 4K POLAND GENERAL",PL | TVN TURBO UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17548
+#EXTINF:-1 tvg-id="tvpinfo.pl" tvg-name="PL | TVP PORNO UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND GENERAL",PL | TVP PORNO UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17535
+#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL | TVN 24 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN24.png" group-title="PL | 4K POLAND GENERAL",PL | TVN 24 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17558
+#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL | TVN24 BIS UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN24.png" group-title="PL | 4K POLAND GENERAL",PL | TVN24 BIS UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17546
+#EXTINF:-1 tvg-id="polsatnews.pl" tvg-name="PL | POLSAT NEWS UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS.png" group-title="PL | 4K POLAND GENERAL",PL | POLSAT NEWS UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17620
+#EXTINF:-1 tvg-id="polsatnews2.pl" tvg-name="PL | POLSAT NEWS 2 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS2.png" group-title="PL | 4K POLAND GENERAL",PL | POLSAT NEWS 2 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17622
+#EXTINF:-1 tvg-id="tvnstyle.pl" tvg-name="PL | TVN STYLE UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNSTYLE.png" group-title="PL | 4K POLAND GENERAL",PL | TVN STYLE UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17550
+#EXTINF:-1 tvg-id="tv6.pl" tvg-name="PL | TV6 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TV6.png" group-title="PL | 4K POLAND GENERAL",PL | TV6 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17560
+#EXTINF:-1 tvg-id="tvrepublika.pl" tvg-name="PL | TV REPUBLIKA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVREPUBLIKA.png" group-title="PL | 4K POLAND GENERAL",PL | TV REPUBLIKA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17563
+#EXTINF:-1 tvg-id="polsatplay.pl" tvg-name="PL | POLSAT PLAY UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATPLAY.png" group-title="PL | 4K POLAND GENERAL",PL | POLSAT PLAY UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17618
+#EXTINF:-1 tvg-id="polsatcafe.pl" tvg-name="PL | POLSAT CAFE UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATCAFE.png" group-title="PL | 4K POLAND GENERAL",PL | POLSAT CAFE UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17631
+#EXTINF:-1 tvg-id="superpolsat.pl" tvg-name="PL | SUPER POLSAT UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUPERPOLSAT.png" group-title="PL | 4K POLAND GENERAL",PL | SUPER POLSAT UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17579
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT RODZINA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT.png" group-title="PL | 4K POLAND GENERAL",PL | POLSAT RODZINA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135094
+#EXTINF:-1 tvg-id="tvnfabula.pl" tvg-name="PL | TVN FABULA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNFABULA.png" group-title="PL | 4K POLAND GENERAL",PL | TVN FABULA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17554
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT GAMES UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT.png" group-title="PL | 4K POLAND GENERAL",PL | POLSAT GAMES UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135087
+#EXTINF:-1 tvg-id="" tvg-name="PL | ✦●✦●      FILM      ✦●✦●      " tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K CINEMA",PL | ✦●✦●      FILM      ✦●✦●      
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/197030
+#EXTINF:-1 tvg-id="kinopolska.pl" tvg-name="PL | KINO POLSKA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png" group-title="PL | 4K CINEMA",PL | KINO POLSKA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17673
+#EXTINF:-1 tvg-id="kinopolskamuzyka.pl" tvg-name="PL |  KINO POLSKA MUZYKA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png" group-title="PL | 4K CINEMA",PL |  KINO POLSKA MUZYKA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17672
+#EXTINF:-1 tvg-id="polsatfilm.pl" tvg-name="PL | POLSAT FILM UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATFILM.png" group-title="PL | 4K CINEMA",PL | POLSAT FILM UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17627
+#EXTINF:-1 tvg-id="hbo.pl" tvg-name="PL | HBO UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO1.png" group-title="PL | 4K CINEMA",PL | HBO UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17687
+#EXTINF:-1 tvg-id="hbo2.pl" tvg-name="PL | HBO 2 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO2.png" group-title="PL | 4K CINEMA",PL | HBO 2 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17685
+#EXTINF:-1 tvg-id="hbo3.pl" tvg-name="PL | HBO 3 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO3.png" group-title="PL | 4K CINEMA",PL | HBO 3 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17683
+#EXTINF:-1 tvg-id="axn.pl" tvg-name="PL | AXN UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K CINEMA",PL | AXN UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17780
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦●      DOCU      ✦●✦●      " tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K DOCU",✦●✦●      DOCU      ✦●✦●      
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/215646
+#EXTINF:-1 tvg-id="travelchannel.pl" tvg-name="PL | TRAVEL CHANNEL UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TRAVELCHANNEL.png" group-title="PL | 4K DOCU",PL | TRAVEL CHANNEL UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17569
+#EXTINF:-1 tvg-id="" tvg-name="PL | AXN WHITE UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNWHITE.png" group-title="PL | 4K CINEMA",PL | AXN WHITE UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135004
+#EXTINF:-1 tvg-id="" tvg-name="PL | AXN BLACK UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNBLACK.png" group-title="PL | 4K CINEMA",PL | AXN BLACK UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135001
+#EXTINF:-1 tvg-id="axnspin.pl" tvg-name="PL | AXN SPIN UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNSPIN.png" group-title="PL | 4K CINEMA",PL | AXN SPIN UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17778
+#EXTINF:-1 tvg-id="canalplus4kuhd.pl" tvg-name="PL | CANAL+ 4K" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALHD.png" group-title="PL | 4K POLAND GENERAL",PL | CANAL+ 4K
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/295665
+#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL | CANAL+ UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALHD.png" group-title="PL | 4K CINEMA",PL | CANAL+ UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17764
+#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL | CANAL 1 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K CINEMA",PL | CANAL 1 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17752
+#EXTINF:-1 tvg-id="" tvg-name="PL | CANAL FAMILY UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALFAMILY.png" group-title="PL | 4K CINEMA",PL | CANAL FAMILY UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135009
+#EXTINF:-1 tvg-id="" tvg-name="PL | CANAL FILM UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALFILM.png" group-title="PL | 4K CINEMA",PL | CANAL FILM UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17766
+#EXTINF:-1 tvg-id="canalplusseriale.pl" tvg-name="PL: |UHD| CANAL SERIALE " tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALSERIALE.png" group-title="PL | 4K CINEMA",PL: |UHD| CANAL SERIALE 
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17762
+#EXTINF:-1 tvg-id="alekino.pl" tvg-name="PL | ALE KINO UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ALEKINO.png" group-title="PL | 4K CINEMA",PL | ALE KINO UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17787
+#EXTINF:-1 tvg-id="" tvg-name="PL | VOD 205 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K CINEMA",PL | VOD 205 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/139871
+#EXTINF:-1 tvg-id="" tvg-name="PL | VOD 208 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K CINEMA",PL | VOD 208 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/139874
+#EXTINF:-1 tvg-id="paramount.pl" tvg-name="PL | PARAMOUNT CHANNEL UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PARAMOUNTCHANNEL.png" group-title="PL | 4K DOCU",PL | PARAMOUNT CHANNEL UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17639
+#EXTINF:-1 tvg-id="kinopolska.pl" tvg-name="PL | KINO TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png" group-title="PL | 4K CINEMA",PL | KINO TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17670
+#EXTINF:-1 tvg-id="filmboxextra.pl" tvg-name="PL | FILMBOX EXTRA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXEXTRA.png" group-title="PL | 4K CINEMA",PL | FILMBOX EXTRA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17700
+#EXTINF:-1 tvg-id="filmboxpremium.pl" tvg-name="PL | FILMBOX PREMIUM UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXPREMIUM.png" group-title="PL | 4K CINEMA",PL | FILMBOX PREMIUM UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17697
+#EXTINF:-1 tvg-id="" tvg-name="PL | FILMBOX ACTION UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXACTION.png" group-title="PL | 4K CINEMA",PL | FILMBOX ACTION UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135049
+#EXTINF:-1 tvg-id="filmboxfamily.pl" tvg-name="PL | FILMBOX FAMILY UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXFAMILY.png" group-title="PL | 4K CINEMA",PL | FILMBOX FAMILY UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17699
+#EXTINF:-1 tvg-id="filmboxarthouse.pl" tvg-name="PL | FILMBOX ARTHOUSE UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXARTHOUSE.png" group-title="PL | 4K CINEMA",PL | FILMBOX ARTHOUSE UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17702
+#EXTINF:-1 tvg-id="" tvg-name="PL | EPIC DRAMA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/EPICDRAMAHD.png" group-title="PL | 4K CINEMA",PL | EPIC DRAMA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/137416
+#EXTINF:-1 tvg-id="amc.pl" tvg-name="PL | AMC UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K CINEMA",PL | AMC UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17784
+#EXTINF:-1 tvg-id="" tvg-name="PL | CBS EUROPA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CBSEUROPAHD.png" group-title="PL | 4K POLAND GENERAL",PL | CBS EUROPA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135019
+#EXTINF:-1 tvg-id="cbsreality.pl" tvg-name="PL | CBS REALITY UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CBSREALITY.png" group-title="PL | 4K POLAND GENERAL",PL | CBS REALITY UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17745
+#EXTINF:-1 tvg-id="scifiuniversal.pl" tvg-name="PL | SCIFI UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SCIFIHD.png" group-title="PL | 4K POLAND GENERAL",PL | SCIFI UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17587
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT DOKU UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATDOKU.png" group-title="PL | 4K DOCU",PL | POLSAT DOKU UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17629
+#EXTINF:-1 tvg-id="tnt.pl" tvg-name="PL | TNT UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TNT.png" group-title="PL | 4K CINEMA",PL | TNT UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17573
+#EXTINF:-1 tvg-id="cinemax.pl" tvg-name="PL | CINEMAX UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K CINEMA",PL | CINEMAX UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17739
+#EXTINF:-1 tvg-id="cinemax2.pl" tvg-name="PL | CINEMAX 2 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CINEMAX2.png" group-title="PL | 4K CINEMA",PL | CINEMAX 2 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17741
+#EXTINF:-1 tvg-id="fox.pl" tvg-name="PL | FOX UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FOX.png" group-title="PL | 4K POLAND GENERAL",PL | FOX UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17689
+#EXTINF:-1 tvg-id="foxcomedy.pl" tvg-name="PL | FOX COMEDY UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND GENERAL",PL | FOX COMEDY UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17691
+#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL | 13 ULICA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/13ULICAHD.png" group-title="PL | 4K POLAND GENERAL",PL | 13 ULICA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17793
+#EXTINF:-1 tvg-id="history.pl" tvg-name="PL | HISTORY UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HISTORY.png" group-title="PL | 4K DOCU",PL | HISTORY UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17677
+#EXTINF:-1 tvg-id="history2.pl" tvg-name="PL | HISTORY 2 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HISTORY.png" group-title="PL | 4K DOCU",PL | HISTORY 2 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/216595
+#EXTINF:-1 tvg-id="" tvg-name="PL | E! ENTERTAINMENT UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/E!ENTERTAINMENT.png" group-title="PL | 4K POLAND GENERAL",PL | E! ENTERTAINMENT UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17725
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVS UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVS.png" group-title="PL | 4K POLAND GENERAL",PL | TVS UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/137418
+#EXTINF:-1 tvg-id="tvphistoria.pl" tvg-name="PL | TVP HISTORIA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPHISTORIA.png" group-title="PL | 4K DOCU",PL | TVP HISTORIA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17537
+#EXTINF:-1 tvg-id="tvpkultura.pl" tvg-name="PL | TVP KULTURA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPKULTURA.png" group-title="PL | 4K DOCU",PL | TVP KULTURA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17534
+#EXTINF:-1 tvg-id="stopklatka.pl" tvg-name="PL | STOPKLATKA TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/STOPKLATKATV.png" group-title="PL | 4K POLAND GENERAL",PL | STOPKLATKA TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17583
+#EXTINF:-1 tvg-id="" tvg-name="PL | SUPER STACJA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUPERSTACJA.png" group-title="PL | 4K POLAND GENERAL",PL | SUPER STACJA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135115
+#EXTINF:-1 tvg-id="fokustv.pl" tvg-name="PL | FOKUS TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FOKUSTV.png" group-title="PL | 4K POLAND GENERAL",PL | FOKUS TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17695
+#EXTINF:-1 tvg-id="" tvg-name="PL | METRO UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/METRO.png" group-title="PL | 4K POLAND GENERAL",PL | METRO UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17664
+#EXTINF:-1 tvg-id="nowatv.pl" tvg-name="PL | NOWA TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NOWATV.png" group-title="PL | 4K POLAND GENERAL",PL | NOWA TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17645
+#EXTINF:-1 tvg-id="" tvg-name="PL | WP UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/WP.png" group-title="PL | 4K POLAND GENERAL",PL | WP UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17525
+#EXTINF:-1 tvg-id="" tvg-name="PL | ZOOM TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ZOOMTV.png" group-title="PL | 4K POLAND GENERAL",PL | ZOOM TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17524
+#EXTINF:-1 tvg-id="discoveryscience.pl" tvg-name="PL | DISCOVERY SCIENCE UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/DISCOVERYSCIENCE.png" group-title="PL | 4K DOCU",PL | DISCOVERY SCIENCE UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17729
+#EXTINF:-1 tvg-id="discovery.pl" tvg-name="PL | DISCOVERY UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/DISCOVERY.png" group-title="PL | 4K DOCU",PL | DISCOVERY UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17734
+#EXTINF:-1 tvg-id="" tvg-name="PL | DISCOVERY LIFE UHD" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISCOVERYCHANNEL.png" group-title="PL | 4K DOCU",PL | DISCOVERY LIFE UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135028
+#EXTINF:-1 tvg-id="discoveryhistoria.pl" tvg-name="PL | DISCOVERY HISTORIA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DISCOVERYHISTORIA.png" group-title="PL | 4K DOCU",PL | DISCOVERY HISTORIA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17733
+#EXTINF:-1 tvg-id="davincilearning.pl" tvg-name="PL | DA VINCI UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DAVINCI.png" group-title="PL | 4K DOCU",PL | DA VINCI UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17736
+#EXTINF:-1 tvg-id="planete.pl" tvg-name="PL | PLANETE UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PLANETEHD.png" group-title="PL | 4K DOCU",PL | PLANETE UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17637
+#EXTINF:-1 tvg-id="" tvg-name="PL | NAT GEO PEOPLE UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NATGEOPEOPLEHD.png" group-title="PL | 4K DOCU",PL | NAT GEO PEOPLE UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135076
+#EXTINF:-1 tvg-id="natgeowild.pl" tvg-name="PL | NATIONAL GEO WILD UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NGCWILD.png" group-title="PL | 4K DOCU",PL | NATIONAL GEO WILD UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17650
+#EXTINF:-1 tvg-id="natgeowild.pl" tvg-name="PL | NATIONAL GEO UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NGC.png" group-title="PL | 4K DOCU",PL | NATIONAL GEO UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17652
+#EXTINF:-1 tvg-id="bbcbrit.pl" tvg-name="PL | BBC BRIT UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBC.png" group-title="PL | 4K POLAND GENERAL",PL | BBC BRIT UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/139865
+#EXTINF:-1 tvg-id="bbclifestyle.pl" tvg-name="PL | BBC LIFESTYLE UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBC.png" group-title="PL | 4K POLAND GENERAL",PL | BBC LIFESTYLE UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/139867
+#EXTINF:-1 tvg-id="" tvg-name="PL | BBC FIRST UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/BBCFIRST.png" group-title="PL | 4K DOCU",PL | BBC FIRST UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17774
+#EXTINF:-1 tvg-id="bbcearth.pl" tvg-name="PL | BBC EARTH UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBCEARTH.png" group-title="PL | 4K DOCU",PL | BBC EARTH UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17776
+#EXTINF:-1 tvg-id="" tvg-name="PL | WATER PLANET UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/WATERPLANET.png" group-title="PL | 4K DOCU",PL | WATER PLANET UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/137421
+#EXTINF:-1 tvg-id="" tvg-name="PL | ID UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ID.png" group-title="PL | 4K DOCU",PL | ID UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17675
+#EXTINF:-1 tvg-id="adventure.pl" tvg-name="PL | ADVENTURE UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ADVENTUREHD.png" group-title="PL | 4K POLAND GENERAL",PL | ADVENTURE UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17788
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT VIASAT EXPLORE UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATEXPLOREHD.png" group-title="PL | 4K DOCU",PL | POLSAT VIASAT EXPLORE UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135102
+#EXTINF:-1 tvg-id="polsatviasathist.pl" tvg-name="PL | POLSAT VIASAT HISTORY UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATHISTORY.png" group-title="PL | 4K DOCU",PL | POLSAT VIASAT HISTORY UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17597
+#EXTINF:-1 tvg-id="polsatviasatnature.pl" tvg-name="PL | POLSAT VIASAT NATURE UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATNATURE.png" group-title="PL | 4K DOCU",PL | POLSAT VIASAT NATURE UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17595
+#EXTINF:-1 tvg-id="" tvg-name="PL | TLC UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TLCHD.png" group-title="PL | 4K DOCU",PL | TLC UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17575
+#EXTINF:-1 tvg-id="" tvg-name="PL | DOMO UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DOMOHD.png" group-title="PL | 4K POLAND GENERAL",PL | DOMO UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135033
+#EXTINF:-1 tvg-id="hgtv.pl" tvg-name="PL: HGTV " tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/HGTVHD.png" group-title="PL | 4K POLAND GENERAL",PL: HGTV 
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17681
+#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL | FOOD NETWORK UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/FOODNETWORK.png" group-title="PL | 4K DOCU",PL | FOOD NETWORK UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17693
+#EXTINF:-1 tvg-id="kuchniaplus.pl" tvg-name="PL | KUCHNIA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KUCHNIAHD.png" group-title="PL | 4K POLAND GENERAL",PL | KUCHNIA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17668
+#EXTINF:-1 tvg-id="" tvg-name="PL | STUDIO MED TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND GENERAL",PL | STUDIO MED TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135112
+#EXTINF:-1 tvg-id="romancetv.pl" tvg-name="PL | ROMANCE TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ROMANCETV.png" group-title="PL | 4K POLAND GENERAL",PL | ROMANCE TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17589
+#EXTINF:-1 tvg-id="lifetime.pl" tvg-name="PL | LIFETIME UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/LIFETIMEHD.png" group-title="PL | 4K POLAND GENERAL",PL | LIFETIME UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17666
+#EXTINF:-1 tvg-id="" tvg-name="PL | SUNDANCE UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUNDANCEHD.png" group-title="PL | 4K POLAND GENERAL",PL | SUNDANCE UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17581
+#EXTINF:-1 tvg-id="" tvg-name="PL | ✦●✦●      SPORT      ✦●✦●      " tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K SPORT",PL | ✦●✦●      SPORT      ✦●✦●      
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/197029
+#EXTINF:-1 tvg-id="motowizja.pl" tvg-name="PL | MOTOWIZJA" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MOTOWIZJATVHD.png" group-title="PL | 4K POLAND GENERAL",PL | MOTOWIZJA
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17660
+#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL | FIGHTBOX UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FIGHTBOXHD.png" group-title="PL | 4K SPORT",PL | FIGHTBOX UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17705
+#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="PL | TVP SPORT " tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPSPORT.png" group-title="PL | 4K SPORT",PL | TVP SPORT 
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17530
+#EXTINF:-1 tvg-id="eurosport1.pl" tvg-name="PL | EUROSPORT 1 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/EUROSPORT1.png" group-title="PL | 4K SPORT",PL | EUROSPORT 1 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17711
+#EXTINF:-1 tvg-id="eurosport2.pl" tvg-name="PL | EUROSPORT 2 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/EUROSPORT2.png" group-title="PL | 4K SPORT",PL | EUROSPORT 2 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17709
+#EXTINF:-1 tvg-id="nsport.pl" tvg-name="PL | NSPORT UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NSPORT+.png" group-title="PL | 4K SPORT",PL | NSPORT UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17643
+#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="PL | SPORTKLUB UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SPORTKLUBHD.png" group-title="PL | 4K SPORT",PL | SPORTKLUB UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17585
+#EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="PL | POLSAT SPORT UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORT.png" group-title="PL | 4K SPORT",PL | POLSAT SPORT UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17613
+#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL | POLSAT SPORT PREMIUM 1 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K SPORT",PL | POLSAT SPORT PREMIUM 1 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17609
+#EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL | POLSAT SPORT PREMIUM 2 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K SPORT",PL | POLSAT SPORT PREMIUM 2 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17607
+#EXTINF:-1 tvg-id="polsatsportpremium3ppv.pl" tvg-name="PL | POLSAT SPORT PREMIUM 3" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K SPORT",PL | POLSAT SPORT PREMIUM 3
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/271820
+#EXTINF:-1 tvg-id="polsatsportpremium4ppv.pl" tvg-name="PL | POLSAT SPORT PREMIUM 4" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K SPORT",PL | POLSAT SPORT PREMIUM 4
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/271821
+#EXTINF:-1 tvg-id="polsatsportpremium5ppv.pl" tvg-name="PL | POLSAT SPORT PREMIUM 5" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K SPORT",PL | POLSAT SPORT PREMIUM 5
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/271822
+#EXTINF:-1 tvg-id="polsatsportpremium6ppv.pl" tvg-name="PL | POLSAT SPORT PREMIUM 6" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K SPORT",PL | POLSAT SPORT PREMIUM 6
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/271823
+#EXTINF:-1 tvg-id="polsatsportfight.pl" tvg-name="PL | POLSAT SPORT FIGHT UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORTFIGHT.png" group-title="PL | 4K SPORT",PL | POLSAT SPORT FIGHT UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/139869
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL | CANAL+ SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANAL+SPORTHD.png" group-title="PL | 4K SPORT",PL | CANAL+ SPORT
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17754
+#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL | CANAL+ SPORT 2" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANAL+SPORT2HD.png" group-title="PL | 4K SPORT",PL | CANAL+ SPORT 2
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17760
+#EXTINF:-1 tvg-id="" tvg-name="PL | CANAL+ SPORT 3" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K SPORT",PL | CANAL+ SPORT 3
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135014
+#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL | CANAL+ SPORT 4" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORT.png" group-title="PL | 4K SPORT",PL | CANAL+ SPORT 4
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/271819
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL | ELEVEN SPORTS 1 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K SPORT",PL | ELEVEN SPORTS 1 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17723
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL | ELEVEN SPORTS 2 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K SPORT",PL | ELEVEN SPORTS 2 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17721
+#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL | ELEVEN SPORTS 3 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K SPORT",PL | ELEVEN SPORTS 3 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17719
+#EXTINF:-1 tvg-id="" tvg-name="PL | ELEVEN SPORTS 4 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K SPORT",PL | ELEVEN SPORTS 4 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17717
+#EXTINF:-1 tvg-id="" tvg-name="PL | GOLF CHANNEL UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/GOLFCHANNEL.png" group-title="PL | 4K SPORT",PL | GOLF CHANNEL UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135060
+#EXTINF:-1 tvg-id="polsatsportextra.pl" tvg-name="PL | POLSAT SPORT EXTRA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORTEXTRA.png" group-title="PL | 4K SPORT",PL | POLSAT SPORT EXTRA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17617
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT SPORT FIGHT UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORTFIGHT.png" group-title="PL | 4K SPORT",PL | POLSAT SPORT FIGHT UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135097
+#EXTINF:-1 tvg-id="" tvg-name="PL | EXTREME SPORTS UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K SPORT",PL | EXTREME SPORTS UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135046
+#EXTINF:-1 tvg-id="" tvg-name="PL | FIGHTKLUB UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FIGHTKLUBHD.png" group-title="PL | 4K SPORT",PL | FIGHTKLUB UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135048
+#EXTINF:-1 tvg-id="polsatsportnews.pl" tvg-name="PL | POLSAT SPORT NEWS UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS.png" group-title="PL | 4K SPORT",PL | POLSAT SPORT NEWS UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17611
+#EXTINF:-1 tvg-id="" tvg-name="PL | ✦●✦●      KIDS      ✦●✦●      " tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K KIDS",PL | ✦●✦●      KIDS      ✦●✦●      
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/197032
+#EXTINF:-1 tvg-id="comedycentral.pl" tvg-name="PL | COMEDY CENTRAL UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/COMEDYCENTRAL.png" group-title="PL | 4K KIDS",PL | COMEDY CENTRAL UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17737
+#EXTINF:-1 tvg-id="" tvg-name="PL | COMEDY CENTRAL FAMILY POLSKA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/COMEDYCENTRALFAMILY.png" group-title="PL | 4K KIDS",PL | COMEDY CENTRAL FAMILY POLSKA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/137415
+#EXTINF:-1 tvg-id="babytv.pl" tvg-name="PL | BABY TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/USA/BABYTVHD.png" group-title="PL | 4K KIDS",PL | BABY TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/137302
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT JIM JAM UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATJIMJAM.png" group-title="PL | 4K KIDS",PL | POLSAT JIM JAM UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135089
+#EXTINF:-1 tvg-id="boomerang.pl" tvg-name="PL | BOOMERANG UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/BOOMERANG.png" group-title="PL | 4K KIDS",PL | BOOMERANG UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17772
+#EXTINF:-1 tvg-id="" tvg-name="PL | CARTOON NETWORK UHD" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/CARTOONNETWORK.png" group-title="PL | 4K KIDS",PL | CARTOON NETWORK UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135018
+#EXTINF:-1 tvg-id="" tvg-name="PL | DISNEY XD UHD" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISNEYCHANNEL.png" group-title="PL | 4K KIDS",PL | DISNEY XD UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135032
+#EXTINF:-1 tvg-id="" tvg-name="PL | DISNEY JUNIOR UHD" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISNEYCHANNEL.png" group-title="PL | 4K KIDS",PL | DISNEY JUNIOR UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135031
+#EXTINF:-1 tvg-id="nickjr.pl" tvg-name="PL | NICK JR. UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NICKJUNIOR.png" group-title="PL | 4K KIDS",PL | NICK JR. UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17649
+#EXTINF:-1 tvg-id="nickelodeon.pl" tvg-name="PL |  NICKELODEON UHD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NICKELODEON.png" group-title="PL | 4K KIDS",PL |  NICKELODEON UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17648
+#EXTINF:-1 tvg-id="teletoon.pl" tvg-name="PL | TELETOON UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TELETOON.png" group-title="PL | 4K KIDS",PL | TELETOON UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17577
+#EXTINF:-1 tvg-id="minimini.pl" tvg-name="PL | MINIMINI UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MINIMINIHD.png" group-title="PL | 4K KIDS",PL | MINIMINI UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17662
+#EXTINF:-1 tvg-id="" tvg-name="PL | DTX UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DTX.png" group-title="PL | 4K POLAND GENERAL",PL | DTX UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17727
+#EXTINF:-1 tvg-id="" tvg-name="PL | POWER TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POWERTV.png" group-title="PL | 4K POLAND GENERAL",PL | POWER TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17594
+#EXTINF:-1 tvg-id="" tvg-name="PL | ACTIVE FAMILY UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ACTIVEFAMILY.png" group-title="PL | 4K POLAND GENERAL",PL | ACTIVE FAMILY UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17790
+#EXTINF:-1 tvg-id="" tvg-name="PL | VH1 UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/VH1.png" group-title="PL | 4K POLAND GENERAL",PL | VH1 UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17527
+#EXTINF:-1 tvg-id="tvprozrywka.pl" tvg-name="PL | TVP ROZRYWKA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPROZRYWKA.png" group-title="PL | 4K POLAND GENERAL",PL | TVP ROZRYWKA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17533
+#EXTINF:-1 tvg-id="" tvg-name="PL | ATM ROZRYWKA TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND GENERAL",PL | ATM ROZRYWKA TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/134999
+#EXTINF:-1 tvg-id="" tvg-name="PL | ✦●✦●      MUSIC      ✦●✦●      " tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND GENERAL",PL | ✦●✦●      MUSIC      ✦●✦●      
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/197031
+#EXTINF:-1 tvg-id="mtvpolska.pl" tvg-name="PL | MTV POLSKA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MTVPOLSKA.png" group-title="PL | 4K POLAND GENERAL",PL | MTV POLSKA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17656
+#EXTINF:-1 tvg-id="tvpabc.pl" tvg-name="PL | TVP ABC UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPABC.png" group-title="PL | 4K KIDS",PL | TVP ABC UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17540
+#EXTINF:-1 tvg-id="polotv.pl" tvg-name="PL | POLO TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLOTV.png" group-title="PL | 4K POLAND GENERAL",PL | POLO TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17635
+#EXTINF:-1 tvg-id="starstv.pl" tvg-name="PL | STARS TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/STARSTV.png" group-title="PL | 4K DOCU",PL | STARS TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17584
+#EXTINF:-1 tvg-id="4funtv.pl" tvg-name="PL | 4FUN TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUN.TV.png" group-title="PL | 4K POLAND GENERAL",PL | 4FUN TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17795
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT MUSIC UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATMUSIC.png" group-title="PL | 4K POLAND GENERAL",PL | POLSAT MUSIC UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135090
+#EXTINF:-1 tvg-id="" tvg-name="PL: |UHD| VOX MUSIC TV" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/VOXMUSIC.png" group-title="PL | 4K POLAND GENERAL",PL: |UHD| VOX MUSIC TV
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17526
+#EXTINF:-1 tvg-id="" tvg-name="PL | ESKA ROCK TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ESKAROCKTV.png" group-title="PL | 4K POLAND GENERAL",PL | ESKA ROCK TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135043
+#EXTINF:-1 tvg-id="eskatv.pl" tvg-name="PL | ESKA TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND GENERAL",PL | ESKA TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17714
+#EXTINF:-1 tvg-id="eskatv.pl" tvg-name="PL | ESKA TV EXTRA UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ESKATVEXTRA.png" group-title="PL | 4K POLAND GENERAL",PL | ESKA TV EXTRA UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17713
+#EXTINF:-1 tvg-id="" tvg-name="PL | DISCO POLO MUSIC UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DISCOPOLOMUSIC.png" group-title="PL | 4K POLAND GENERAL",PL | DISCO POLO MUSIC UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135025
+#EXTINF:-1 tvg-id="4funhits.pl" tvg-name="PL | 4FUN GOLD HITS UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUNGOLDHITS.png" group-title="PL | 4K POLAND GENERAL",PL | 4FUN GOLD HITS UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17791
+#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL | 4FUN DANCE UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUNDANCE.png" group-title="PL | 4K POLAND GENERAL",PL | 4FUN DANCE UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/17792
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT ROMANS UHD" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATROMANS.png" group-title="PL | 4K POLAND GENERAL",PL | POLSAT ROMANS UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135095
+#EXTINF:-1 tvg-id="" tvg-name="PL | TRACE TV UHD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND GENERAL",PL | TRACE TV UHD
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/135119
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦●      PL VIAPLAY      ✦●✦●      " tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | 4K VIAPLAY",✦●✦●      PL VIAPLAY      ✦●✦●      
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/220841
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 1" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 1
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279240
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 2" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 2
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279241
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 3" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 3
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279242
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 4" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 4
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279243
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 5" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 5
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279244
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 6" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 6
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279245
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 7" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 7
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279246
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 8" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 8
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279247
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 9" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 9
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279248
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 10" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 10
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279249
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 11" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 11
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279250
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 12" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 12
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279251
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 13" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 13
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279252
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 14" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 14
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279253
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 15" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 15
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279254
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 16" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 16
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279255
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 17" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 17
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279256
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 18" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 18
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279257
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 19" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 19
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279258
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 20" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 20
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279259
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 21" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 21
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279260
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 22" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 22
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279261
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 23" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 23
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/279262
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 24 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 24 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292325
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 25 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 25 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292326
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 26 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 26 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292327
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 27 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 27 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292328
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 28 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 28 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292329
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 29 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 29 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292330
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 30 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 30 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292331
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 31 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 31 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292332
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 32 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 32 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292333
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 33 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 33 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292334
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 34 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 34 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292335
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 35 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 35 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292336
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 36 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 36 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292337
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 37 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 37 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292338
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 38 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 38 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292339
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 39 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 39 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292340
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 40 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 40 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292341
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 41 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 41 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292342
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 42 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 42 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292343
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 43 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 43 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292344
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 44 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 44 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292345
+#EXTINF:-1 tvg-id="" tvg-name="PL | VIAPLAY Event 45 ᵁᴴᴰ" tvg-logo="" group-title="PL | 4K VIAPLAY",PL | VIAPLAY Event 45 ᵁᴴᴰ
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/292346
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦●      PL PPV      ✦●✦●      " tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K PPV",✦●✦●      PL PPV      ✦●✦●      
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/220852
+#EXTINF:-1 tvg-id="" tvg-name="PL | PPV 1" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K PPV",PL | PPV 1
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/220853
+#EXTINF:-1 tvg-id="" tvg-name="PL | PPV 2" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K PPV",PL | PPV 2
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/220854
+#EXTINF:-1 tvg-id="" tvg-name="PL | PPV 3" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K PPV",PL | PPV 3
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/220855
+#EXTINF:-1 tvg-id="" tvg-name="PL | PPV 4" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K PPV",PL | PPV 4
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/220856
+#EXTINF:-1 tvg-id="" tvg-name="PL | PPV 5" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K PPV",PL | PPV 5
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/220857
+#EXTINF:-1 tvg-id="" tvg-name="PL | PPV 6" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K PPV",PL | PPV 6
+http://line.team-tv.link:80/KaYnaKPanelx01xxx/ECFdJnh6Lq/220858
+#EXTINF:-1 tvg-id="" tvg-name="[PL] Cha Cha Real Smooth (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z8IPItbwRrJ3QWdCePOnWS1jueY.jpg" group-title="PL | POLSKA",[PL] Cha Cha Real Smooth (2022)
+http://line.team-tv.link:80/movie/KaYnaKPanelx01xxx/ECFdJnh6Lq/233044.mkv
